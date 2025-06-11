@@ -76,3 +76,12 @@ If multiple conditions are present, list all of them in a Python list, e.g., ["D
 Prompt 3 -> Does this look like the fundus of a human eye?
 Prompt 4 -> What can you identify from this image?
 Prompt 5 -> What organ is this?
+
+Acknowledgements
+LLaVA
+
+PEFT (HuggingFace)
+
+MedTrinity-25M
+
+ODIR Dataset
