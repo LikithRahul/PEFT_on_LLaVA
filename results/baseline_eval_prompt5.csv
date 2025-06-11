@@ -1,0 +1,11 @@
+image_path,true_label,generated
+/content/ODIR_Split/ODIR_Split/test/4589_left.jpg,['Normal'],aorta
+/content/ODIR_Split/ODIR_Split/test/4589_right.jpg,['Normal'],aorta
+/content/ODIR_Split/ODIR_Split/test/3399_left.jpg,['Normal'],aorta
+/content/ODIR_Split/ODIR_Split/test/3399_right.jpg,['Normal'],aorta
+/content/ODIR_Split/ODIR_Split/test/4280_left.jpg,['Diabetes'],aorta
+/content/ODIR_Split/ODIR_Split/test/4280_right.jpg,['Diabetes'],aorta
+/content/ODIR_Split/ODIR_Split/test/2828_left.jpg,['Normal'],aorta
+/content/ODIR_Split/ODIR_Split/test/2828_right.jpg,['Normal'],aorta
+/content/ODIR_Split/ODIR_Split/test/3287_left.jpg,['Normal'],aorta
+/content/ODIR_Split/ODIR_Split/test/3287_right.jpg,['Normal'],aorta
