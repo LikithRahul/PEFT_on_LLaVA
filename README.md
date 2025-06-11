@@ -78,7 +78,7 @@ Prompt 4 -> What can you identify from this image?
 Prompt 5 -> What organ is this?
 
 ##Acknowledgements
-
+---
 [LLaVA] (https://github.com/haotian-liu/LLaVA)
 
 [PEFT (HuggingFace)] (https://github.com/huggingface/peft)
