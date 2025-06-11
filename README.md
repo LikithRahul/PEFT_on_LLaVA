@@ -77,7 +77,7 @@ Prompt 3 -> Does this look like the fundus of a human eye?
 Prompt 4 -> What can you identify from this image?
 Prompt 5 -> What organ is this?
 
-##Acknowledgements
+## Acknowledgements
 ---
 [LLaVA] (https://github.com/haotian-liu/LLaVA)
 
