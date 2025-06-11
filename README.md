@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/rare-disease-peft-llava.git
 cd rare-disease-peft-llava
 python3 -m venv venv
 source venv/bin/activate
-
+```
 ---
 
 ## Zero shot Inference, Adapting PEFT and Trained model inference
@@ -45,7 +45,7 @@ LoraConfig(
     task_type=TaskType.CAUSAL_LM
 )
 
-#Base model inference prompts
+## Base model inference prompts
 Prompt 1 -> Analyze the provided fundus image and identify which of the following ocular conditions are present, if any.
 Possible conditions:
 - Normal (N)
@@ -77,11 +77,12 @@ Prompt 3 -> Does this look like the fundus of a human eye?
 Prompt 4 -> What can you identify from this image?
 Prompt 5 -> What organ is this?
 
-Acknowledgements
-LLaVA
+##Acknowledgements
 
-PEFT (HuggingFace)
+[LLaVA] (https://github.com/haotian-liu/LLaVA)
 
-MedTrinity-25M
+[PEFT (HuggingFace)] (https://github.com/huggingface/peft)
 
-ODIR Dataset
+[MedTrinity-25M](https://github.com/UCSC-VLAA/MedTrinity-25M)
+
+[ODIR Dataset] (https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k)
